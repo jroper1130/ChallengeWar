@@ -1,0 +1,7 @@
+C:\Users\warbe\source\repos\ChallengeWar\ChallengeWar\bin\ChallengeWar.dll.config
+C:\Users\warbe\source\repos\ChallengeWar\ChallengeWar\bin\ChallengeWar.dll
+C:\Users\warbe\source\repos\ChallengeWar\ChallengeWar\bin\ChallengeWar.pdb
+C:\Users\warbe\source\repos\ChallengeWar\ChallengeWar\obj\Debug\ChallengeWar.csprojResolveAssemblyReference.cache
+C:\Users\warbe\source\repos\ChallengeWar\ChallengeWar\obj\Debug\ChallengeWar.csproj.CoreCompileInputs.cache
+C:\Users\warbe\source\repos\ChallengeWar\ChallengeWar\obj\Debug\ChallengeWar.dll
+C:\Users\warbe\source\repos\ChallengeWar\ChallengeWar\obj\Debug\ChallengeWar.pdb
